@@ -1,0 +1,16 @@
+<html>
+<head><title>nana</title></head>
+<body bgcolor="c4b0dd">
+<p align="left">
+	<font face="arial" color="020618" size="5">
+		<img src="rm11.jpg" border="2" width="550" height="350" title="namjon-swim.mv" > he in swim mv
+	</font>
+</p>
+<dl>
+	<dt><big><big><font face="arial">namjoon biography</font></big></big>
+	<dd> Namjoon was born in Seoul (Sangdo-dong), Korea. He has one sibling which is his younger sister Kim Kyung Min.<br>
+	 Before he debuted, he was an underground rapper known as Runch Ransa, and he was a part of the Daenamhyup crew.
+</dl>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+
+<head><title>idk</title></head>
+
+<body bgcolor="7059C5">
+
+<center>
+<p><font face="tahoma" size="7" color="black"><b>BANGTAN BOYS</b></font></p>
+<p><font face="arial" size="4" color"black" ><b>a korean pop group</b></font></p>
+</center>
+</body>
+
+</html>

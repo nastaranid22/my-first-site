@@ -1,0 +1,14 @@
+<html>
+<head><title>BTS wiki</title></head>
+
+<frameset rows="150,*">
+	<frame name="banner" scrolling="no" noresize= target="__self" src="top.html">
+	
+	<frameset cols="200,*">
+		<frame name="contents" target="_self" src="left.html">
+		<frame name="main" target="_self" src="main.html">
+	</frameset>
+	
+</frameset>
+
+</html>
